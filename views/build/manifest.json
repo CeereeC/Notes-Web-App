@@ -1,0 +1,13 @@
+{
+  "name": "Notes App",
+  "short_name": "Notes",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5ba13",
+  "description": "Deez Notes Lmao",
+  "icons": [{
+    "src": "images/simicart-splash-mobile.png.png",
+    "sizes": "384x512",
+    "type": "image/png"
+  }]
+}
